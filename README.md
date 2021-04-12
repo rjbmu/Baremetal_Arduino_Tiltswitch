@@ -8,3 +8,5 @@ Wire the center pins to +5V and the 2 outside pin sets to the East/West and Nort
 Using either the Arduino IDE or your preferred method, find the COM port the Arduino is on. The default value for the compile script is port 3, so you may need to change it.
 
 Then, using the included python script, type "python compile_script.py 4" into the command line after navigating to the code containing file. The program should compile and the LEDs should begin illuminating with movement of the tiltswitches.
+
+See this video for demostration of code on the Arduino: https://youtu.be/dOw_kMjU6T8
